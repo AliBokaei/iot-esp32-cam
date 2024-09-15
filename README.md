@@ -96,7 +96,7 @@ Follow these steps to set up and run the project:
 
 1. Clone the repository:
    ```sh
-   git clone [https://github.com/username/led-control-esp32-cam.git](https://github.com/AliBokaei/iot-esp32-cam.git)
+   git clone https://github.com/AliBokaei/iot-esp32-cam.git
    cd led-control-esp32-cam
    ```
 
